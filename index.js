@@ -1,4 +1,4 @@
-const express = require("express"); //importa o mÃ³dulo express neste arquivo
+const express = require("express"); //importa o módulo express neste arquivo
 const app = express(); //iniciando o express
 
 //criando a rota inicial
